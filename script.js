@@ -1,7 +1,3 @@
-//let h1 ="https://api.openweathermap.org/data/2.5/weather?q={city%20name}&appid=8f8c53c8e271ce43c6f795950135284c{api key}";
-//let h2="https://api.openweathermap.org/data/2.5/weather?q=california&appid=8f8c53c8e271ce43c6f795950135284c&units=metric";
-
-
 const apiKey="8f8c53c8e271ce43c6f795950135284c";
 const apiUrl="https://api.openweathermap.org/data/2.5/weather?&units=metric&q=";
 const searchBox =document.querySelector(".search input");
